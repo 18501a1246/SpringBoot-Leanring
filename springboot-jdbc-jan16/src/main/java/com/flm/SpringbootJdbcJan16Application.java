@@ -10,7 +10,6 @@ public class SpringbootJdbcJan16Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootJdbcJan16Application.class, args);
-		System.out.println("Hello world..");
 	}
 
 }
