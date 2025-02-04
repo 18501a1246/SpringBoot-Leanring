@@ -10,4 +10,5 @@ public class SpringbootWebDataJan18Application {
 		SpringApplication.run(SpringbootWebDataJan18Application.class, args);
 	}
 
+	
 }
