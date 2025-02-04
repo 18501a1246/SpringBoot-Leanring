@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: abcd
+  datasource:
+    url: jdbc:mysql://localhost/flm
+    username: root
+    password: Test1234
